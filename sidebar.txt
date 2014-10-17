@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vgt:home|Door43 (vgt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vgt|d43-vgt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vgt/archive/master.zip|d43-vgt.zip]]
+
+**Recent Changes**
+{{changes>ns = vgt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vgt|Ethnologue data]]
+
